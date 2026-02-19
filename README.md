@@ -1,6 +1,6 @@
 # Datos Masivos
 
-La BD con la que se trabajará es [esta](https://github.com/GemaGuerraV/DatosMasivos/blob/main/yellow_tripdata_2025-01.parquet).
+La BD con la que se trabajará es [esta](https://github.com/GemaGuerraV/DatosMasivos/blob/main/data/yellow_tripdata_2025-01.parquet).
 
 - [Tarea #1](https://github.com/GemaGuerraV/DatosMasivos/blob/main/notebooks/Tarea1_DM.ipynb)
 
