@@ -13,3 +13,7 @@ La BD con la que se trabajará es [esta](https://github.com/GemaGuerraV/DatosMas
 - [Tarea #3](https://github.com/GemaGuerraV/DatosMasivos/blob/main/notebooks/Tarea3_DM.ipynb)
 
   Se realiza manipulación de filas y columnas en los datos elegidos, se modifican datos se agregan nuevas columnas calculadas se filtran resultados.
+
+- [Tarea #4] (https://github.com/GemaGuerraV/DatosMasivos/blob/main/notebooks/Tarea4_5_DM.ipynb)
+
+  Se realiza análisis con MLlib de pyspark al conjunto de datos.
