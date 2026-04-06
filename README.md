@@ -17,3 +17,7 @@ La BD con la que se trabajará es [esta](https://github.com/GemaGuerraV/DatosMas
 - [Tarea #4](https://github.com/GemaGuerraV/DatosMasivos/blob/main/notebooks/Tarea4_5_DM.ipynb)
 
   Se realiza análisis con MLlib de pyspark al conjunto de datos.
+
+- [PIA](https://github.com/GemaGuerraV/DatosMasivos/blob/main/notebooks/PIA_DM.ipynb)
+
+  Se desarrolla Proyecto Integrado de Aprendizaje sobre los diamantes.
